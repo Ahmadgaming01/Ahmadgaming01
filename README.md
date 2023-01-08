@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmad Al Madani</h1>
 <h3 align="center">A passionate frontend developer from Syria working in germany</h3>
-<img align="right" alt="coding" width="400" src= "https://raw.githubusercontent.com/gist/MedRedha/fd8e2481bde2610c96b9aafde543879c/raw/88624e8d31c4295973dcb7c900dacf0edc0a6d99/coding.gif">
+<img align="right" alt="coding" width="400" src= "https://www.lambdatest.com/resources/images/news24.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadgaming01&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadgaming01" /> </p>
 
 - 🔭 I’m currently working on **Web-developer**
