@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Html,CSS,Bootstrap,Javascript,python,django**
 
-- 💬 Ask me about ** html and Bootstrap**
+- 💬 Ask me about **html and Bootstrap**
 
 - 📫 How to reach me **aalmadani111@gmail.com**
 
