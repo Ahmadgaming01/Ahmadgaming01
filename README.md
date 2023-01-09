@@ -1,3 +1,5 @@
+<!--- --->
+
 <h1 align="center">Hi 👋, I'm Ahmad Al Madani</h1>
 <h3 align="center">A passionate frontend developer from Syria working in germany</h3>
 <img align="right" alt="coding" width="400" src= "https://www.lambdatest.com/resources/images/news24.gif">
