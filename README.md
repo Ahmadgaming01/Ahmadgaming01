@@ -1,19 +1,19 @@
 <!--- --->
 
 <h1 align="center">Hi 👋, I'm Ahmad Al Madani</h1>
-<h3 align="center">A passionate frontend developer from Syria working in germany</h3>
+<h3 align="center">A passionate python django fullstack developer from Syria working in germany</h3>
 <img align="right" alt="coding" width="400" src= "https://www.lambdatest.com/resources/images/news24.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadgaming01&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadgaming01" /> </p>
 
 - 🔭 I’m currently working on **Web-developer**
 
-- 🌱 I’m currently learning **Html,CSS,Bootstrap,Javascript,python,django**
+- 🌱 I’m currently learning **Html,CSS,Bootstrap,Javascript,vuejs,python,django**
 
-- 💬 Ask me about **html and Bootstrap**
+- 💬 Ask me about **python,django,html,css,javascript**
 
 - 📫 How to reach me **aalmadani111@gmail.com**
 
-- ⚡ Fun fact **i am funny**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
